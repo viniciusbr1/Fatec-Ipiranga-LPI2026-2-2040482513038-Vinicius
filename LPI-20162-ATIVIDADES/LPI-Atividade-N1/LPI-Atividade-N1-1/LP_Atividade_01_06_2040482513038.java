@@ -20,8 +20,8 @@ public class LP_Atividade_01_06_2040482513038 {
         }
 
         /*
-         * Com &&, se texto for null, texto.length() não é executado.
-         * Com & simples, as duas condições seriam avaliadas e
+         * Com &&, se texto for null, texto.length() não é executado
+         * Com & simples, as duas condições seraõ executada e
          * texto.length() poderia causar NullPointerException.
          */
         if (texto != null && texto.length() > 0) {
