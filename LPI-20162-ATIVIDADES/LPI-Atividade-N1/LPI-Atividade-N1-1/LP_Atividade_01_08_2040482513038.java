@@ -34,10 +34,10 @@ public class LP_Atividade_01_08_2040482513038 {
                 valorTotalCentavos / numeroParcelas;
 
         /*
-         * Usar long em centavos evita erros de precisão nas operações
-         * inteiras e funciona bem para valores com duas casas decimais.
-         * A desvantagem é controlar manualmente a escala e as conversões.
-         * BigDecimal é mais flexível para cálculos financeiros que exigem
+         * Usar long em centavos evita erros de precisão das operacão
+         * inteiras e funciona bem para valores com duas casas decimais
+         * A desvantagem é controlar  a escala e as conversões
+         * BigDecimal é mais facil para cálculos financeiros que exigem
          * diferentes escalas e regras de arredondamento.
          */
 
