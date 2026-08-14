@@ -52,7 +52,7 @@ public class LP_Atividade_01_09_2040482513038 {
          *             ? "Exame"
          *             : "Reprovado";
          *
-         * Deve ser evitado quando dificulta a leitura do código.
+         * Evitar quando dificulta a leitura do código.
          * Nesse caso, if/else fica mais fácil de entender.
          */
 
