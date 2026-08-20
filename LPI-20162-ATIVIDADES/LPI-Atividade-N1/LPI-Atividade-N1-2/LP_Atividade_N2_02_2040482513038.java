@@ -1,4 +1,5 @@
-
+//RA:2040482513038  Vinicius Carvalho Sanchez
+//Disciplina: Linguagem de Programação I 
 
 // O while necessario porque não se sabe  quantas vendas serão registradas
 // O laço pode não executar nenhuma vez porque  o primeiro valor informado pode ser zero
