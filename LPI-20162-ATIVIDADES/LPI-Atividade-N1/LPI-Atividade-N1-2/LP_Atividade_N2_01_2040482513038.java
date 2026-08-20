@@ -1,3 +1,6 @@
+//RA:2040482513038  Vinicius Carvalho Sanchez
+//Disciplina: Linguagem de Programação I 
+
 // O for entra aqui porque ja  sabemos a quantidade de repetições antes do início do laço
 // A quantidade de notas a serem lidas é  pela quantidade de alunos informada
 
