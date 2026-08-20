@@ -1,4 +1,5 @@
-
+//RA:2040482513038  Vinicius Carvalho Sanchez
+//Disciplina: Linguagem de Programação I 
     
 // O do-while é funciona aqui porque o PIN deve ser solicitado obrigatoriamente pelo menos 1x
 // A condição é verificada somente depois que uma tentativa já foi realizada
