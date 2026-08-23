@@ -4,7 +4,7 @@
 // Semestre: 2026.2
 import java.util.Scanner;
 
-public class LP_Atividade_01_09_2040482513038 {
+public class LP_Atividade_N1_09_2040482513038 {
 
     public static void main(String[] args) {
 
